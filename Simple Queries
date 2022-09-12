@@ -1,0 +1,5 @@
+Select Top 10 * 
+from Table1
+where table1.column1 is not null
+group by table1.column1
+order by table1.column1 asc
