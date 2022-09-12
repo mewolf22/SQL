@@ -1,1 +1,1 @@
-This repository will serve as a base for my SQL knowledge
+This repository will serve as evidence for my SQL knowledge
